@@ -2,7 +2,7 @@
   <a href="https://edualis.fr">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/edualis-banner-dark.svg">
-      <img src="./assets/edualis-banner-light.svg" alt="Edualis, l’apprentissage réinventé" width="80%">
+      <img src="./assets/edualis-banner-light.svg" alt="Edualis, l’apprentissage réinventé" width="100%">
     </picture>
   </a>
 </p>
