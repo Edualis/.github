@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://edualis.fr">
+  <a href="https://edualis.com">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/edualis-banner-dark.svg">
       <img src="./assets/edualis-banner-light.svg" alt="Edualis, l’apprentissage réinventé" width="100%">
@@ -8,9 +8,9 @@
 </p>
 
 <p align="center">
-  <a href="https://edualis.fr">Découvrir Edualis</a>
+  <a href="https://edualis.com">Découvrir Edualis</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://edualis.fr/help">Support</a>
+  <a href="https://edualis.com/help">Support</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://www.linkedin.com/company/edualis">LinkedIn</a>
 </p>
@@ -65,10 +65,10 @@
 <table>
   <tr>
     <td width="96" align="center" valign="middle">
-      <a href="https://edualis.fr/cerise"><img src="./assets/apps/cerise-icon.svg" width="72" alt="Cerise"></a>
+      <a href="https://edualis.com/cerise"><img src="./assets/apps/cerise-icon.svg" width="72" alt="Cerise"></a>
     </td>
     <td valign="middle">
-      <h3><a href="https://edualis.fr/cerise">Cerise</a></h3>
+      <h3><a href="https://edualis.com/cerise">Cerise</a></h3>
       <b>La modélisation Merise, enfin simple.</b> Dessinez votre MCD, Cerise écrit le reste : dictionnaire de données, dépendances fonctionnelles, MLD, MPD et script SQL, synchronisés et à plusieurs en temps réel. Directement dans le navigateur, sans installation.
     </td>
   </tr>
@@ -104,12 +104,12 @@ Les dépôts mis en avant ci-dessous sont un bon point de départ. Une issue, un
 
 Vous êtes enseignant et vous voulez tester nos outils avec votre classe ? Vous êtes une école et vous cherchez des logiciels souverains ? Vous voulez simplement échanger ?
 
-**Écrivez-nous à [contact@edualis.fr](mailto:contact@edualis.fr).**
+**Écrivez-nous à [hello@edualis.com](mailto:hello@edualis.com).**
 
 <br>
 
 <p align="center">
   <img src="./assets/edualis-icon.svg" width="32" alt="Edualis">
   <br>
-  <sub>Conçu et hébergé en France · <a href="https://edualis.fr">edualis.fr</a></sub>
+  <sub>Conçu et hébergé en France · <a href="https://edualis.com">edualis.com</a></sub>
 </p>
